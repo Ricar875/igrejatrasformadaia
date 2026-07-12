@@ -1,4 +1,3 @@
-[deepseek_markdown_20260711_7d27cf.md](https://github.com/user-attachments/files/29926601/deepseek_markdown_20260711_7d27cf.md)
 # Igreja Saudável
 
 Aplicativo para diagnóstico e revitalização de igrejas em declínio.
